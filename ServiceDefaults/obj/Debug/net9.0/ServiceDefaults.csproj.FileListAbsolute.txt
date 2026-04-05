@@ -1,0 +1,12 @@
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.deps.json
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.dll
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.pdb
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.AssemblyInfo.cs
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.dll
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\refint\ServiceDefaults.dll
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.pdb
+C:\Users\karl\source\repos\eshop-distributed\ServiceDefaults\obj\Debug\net9.0\ref\ServiceDefaults.dll

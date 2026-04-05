@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|solutionrelative:servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\basket\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|solutionrelative:basket\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\servicedefaults\\messaging\\masstransitextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|solutionrelative:servicedefaults\\messaging\\masstransitextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|solutionrelative:basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\servicedefaults\\servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|solutionrelative:servicedefaults\\servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD598-CDC1-4980-A6CF-51D82F83FAFB}|AppHost\\AppHost.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162FD598-CDC1-4980-A6CF-51D82F83FAFB}|AppHost\\AppHost.csproj|solutionrelative:apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\servicedefaults\\messaging\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|solutionrelative:servicedefaults\\messaging\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162FD598-CDC1-4980-A6CF-51D82F83FAFB}|AppHost\\AppHost.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\apphost\\apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{162FD598-CDC1-4980-A6CF-51D82F83FAFB}|AppHost\\AppHost.csproj|solutionrelative:apphost\\apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\servicedefaults\\messaging\\events\\productpricechangeintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ACB28-E2A0-4736-99DF-22B7DEB15E0A}|ServiceDefaults\\ServiceDefaults.csproj|solutionrelative:servicedefaults\\messaging\\events\\productpricechangeintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\basket\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|solutionrelative:basket\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\basket\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|solutionrelative:basket\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\basket\\basket.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|solutionrelative:basket\\basket.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\catalog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\catalog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\basket\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|solutionrelative:basket\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\basket\\basket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|solutionrelative:basket\\basket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\basket\\endpoints\\basketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AD5EA-741E-44E1-9EFB-374DF7A4CD94}|Basket\\Basket.csproj|solutionrelative:basket\\endpoints\\basketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\catalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\catalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\data\\migrations\\20260322074834_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\data\\migrations\\20260322074834_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|c:\\users\\karl\\source\\repos\\eshop-distributed\\catalog\\data\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2155E9-D5AE-4A52-B8A4-11FFAC8ABEB6}|Catalog\\Catalog.csproj|solutionrelative:catalog\\data\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 339,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Basket\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\GlobalUsings.cs",
+              "RelativeToolTip": "Basket\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T04:02:47.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MassTransitExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\Messaging\\MassTransitExtentions.cs",
+              "RelativeDocumentMoniker": "ServiceDefaults\\Messaging\\MassTransitExtentions.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\Messaging\\MassTransitExtentions.cs",
+              "RelativeToolTip": "ServiceDefaults\\Messaging\\MassTransitExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:09:25.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog\\Program.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Program.cs",
+              "RelativeToolTip": "Catalog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T18:06:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Program.cs",
+              "RelativeDocumentMoniker": "Basket\\Program.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Program.cs",
+              "RelativeToolTip": "Basket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T15:36:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T15:52:42.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Catalog\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Services\\ProductService.cs",
+              "RelativeToolTip": "Catalog\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:46:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Catalog\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\GlobalUsings.cs",
+              "RelativeToolTip": "Catalog\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T06:29:00.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceDefaults.csproj",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "ServiceDefaults\\ServiceDefaults.csproj",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\ServiceDefaults.csproj",
+              "RelativeToolTip": "ServiceDefaults\\ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T15:52:29.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\appsettings.json",
+              "RelativeToolTip": "Catalog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T03:54:11.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "AppHost\\AppHost.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\AppHost\\AppHost.cs",
+              "RelativeToolTip": "AppHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T15:50:44.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\Messaging\\Events\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "ServiceDefaults\\Messaging\\Events\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\Messaging\\Events\\IntegrationEvent.cs",
+              "RelativeToolTip": "ServiceDefaults\\Messaging\\Events\\IntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T14:28:38.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductPriceChangeIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\Messaging\\Events\\ProductPriceChangeIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "ServiceDefaults\\Messaging\\Events\\ProductPriceChangeIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\ServiceDefaults\\Messaging\\Events\\ProductPriceChangeIntegrationEvent.cs",
+              "RelativeToolTip": "ServiceDefaults\\Messaging\\Events\\ProductPriceChangeIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T14:30:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Basket",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Basket.csproj",
+              "RelativeDocumentMoniker": "Basket\\Basket.csproj",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Basket.csproj",
+              "RelativeToolTip": "Basket\\Basket.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-03T15:39:03.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppHost",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\AppHost\\AppHost.csproj",
+              "RelativeDocumentMoniker": "AppHost\\AppHost.csproj",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\AppHost\\AppHost.csproj",
+              "RelativeToolTip": "AppHost\\AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T13:43:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Basket\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Basket\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:06:12.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Endpoints\\BasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Basket\\Endpoints\\BasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Endpoints\\BasketEndpoints.cs",
+              "RelativeToolTip": "Basket\\Endpoints\\BasketEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T19:18:20.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Catalog.http",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Catalog.http",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.http",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Catalog.http",
+              "RelativeToolTip": "Catalog\\Catalog.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-03T15:37:12.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Basket\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "Basket\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:05:38.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "Basket\\Services\\BasketService.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Services\\BasketService.cs",
+              "RelativeToolTip": "Basket\\Services\\BasketService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T19:00:31.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Basket.http",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Basket.http",
+              "RelativeDocumentMoniker": "Basket\\Basket.http",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Basket\\Basket.http",
+              "RelativeToolTip": "Basket\\Basket.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-03T19:26:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Catalog\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "Catalog\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T06:12:56.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "Catalog\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "Catalog\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:55:58.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Models\\Product.cs",
+              "RelativeToolTip": "Catalog\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T03:35:41.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Catalog.csproj",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Catalog.csproj",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.csproj",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Catalog.csproj",
+              "RelativeToolTip": "Catalog\\Catalog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T18:02:53.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260322074834_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Data\\Migrations\\20260322074834_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Catalog\\Data\\Migrations\\20260322074834_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Data\\Migrations\\20260322074834_InitialCreate.cs",
+              "RelativeToolTip": "Catalog\\Data\\Migrations\\20260322074834_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:48:34.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Extentions.cs",
+              "DocumentMoniker": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Data\\Extentions.cs",
+              "RelativeDocumentMoniker": "Catalog\\Data\\Extentions.cs",
+              "ToolTip": "C:\\Users\\karl\\source\\repos\\eshop-distributed\\Catalog\\Data\\Extentions.cs",
+              "RelativeToolTip": "Catalog\\Data\\Extentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:06:14.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
